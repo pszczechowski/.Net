@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02917ff0-5a27-492c-b029-0b1772b39bfa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.RentApp/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/RentApp.Contract.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/Debug/netcoreapp2.2/RentApp.Contract.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/Debug/netcoreapp2.2/RentApp.Contract.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/Debug/netcoreapp2.2/RentApp.Contract.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/RentApp.Contract.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/RentApp.Contract.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/RentApp.Contract.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Contract/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/RentApp.Core.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/Debug/netcoreapp2.2/RentApp.Core.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/Debug/netcoreapp2.2/RentApp.Core.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/Debug/netcoreapp2.2/RentApp.Core.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/RentApp.Core.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/RentApp.Core.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/RentApp.Core.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Core/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Address.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Context/RentContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/DbContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Entity.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Flat.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Image.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Owner.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Person.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/RentApp.Infrastructure.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/Tenant.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/Debug/netcoreapp2.2/RentApp.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/Debug/netcoreapp2.2/RentApp.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/Debug/netcoreapp2.2/RentApp.Infrastructure.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/Debug/netcoreapp2.2/RentApp.Infrastructure.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/RentApp.Infrastructure.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/RentApp.Infrastructure.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/RentApp.Infrastructure.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Infrastructure/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/RentApp.Specs.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/Debug/netcoreapp2.2/RentApp.Specs.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/RentApp.Specs.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/RentApp.Specs.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/RentApp.Specs.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.Specs/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/Controllers/ValuesController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/RentApp.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/Debug/netcoreapp2.2/RentApp.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/Debug/netcoreapp2.2/RentApp.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/Debug/netcoreapp2.2/RentApp.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/Debug/netcoreapp2.2/RentApp.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/RentApp.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/RentApp.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/RentApp.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RentApp/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/DbContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <marker date="1554986729609" expanded="true" signature="70:405" ph="{...}" />
+                <marker date="1554986729609" expanded="true" signature="99:403" ph="{...}" />
+                <marker date="1554986729609" expanded="true" signature="159:235" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Context/RentContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding>
+                <marker date="1554986816276" expanded="true" signature="78:420" ph="{...}" />
+                <marker date="1554986816276" expanded="true" signature="121:418" ph="{...}" />
+                <marker date="1554986816276" expanded="true" signature="196:217" ph="{...}" />
+                <marker date="1554986816276" expanded="true" signature="303:412" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/RentApp/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
+                <marker date="1554987956184" expanded="false" signature="6:465" ph="..." />
+                <marker date="1554987956184" expanded="true" signature="484:1877" ph="{...}" />
+                <marker date="1554987956184" expanded="true" signature="511:1875" ph="{...}" />
+                <marker date="1554987956184" expanded="true" signature="570:633" ph="{...}" />
+                <marker date="1554987956184" expanded="true" signature="856:1260" ph="{...}" />
+                <marker date="1554987956184" expanded="true" signature="1449:1869" ph="{...}" />
+                <marker date="1554987956184" expanded="true" signature="1496:1573" ph="{...}" />
+                <marker date="1554987956184" expanded="true" signature="1590:1793" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Entity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Specs/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Address.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Owner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Tenant.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/DbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Core/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Context/RentContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Contract/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Image.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/RentApp.Infrastructure/Flat.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/RentApp.Contract/Class1.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Core/Class1.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Specs/Class1.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Specs/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Class1.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Address.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Person.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/User.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Tenant.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Owner.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Flat.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Image.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/DbContext.cs" />
+        <option value="$PROJECT_DIR$/RentApp/Startup.cs" />
+        <option value="$PROJECT_DIR$/RentApp.Infrastructure/Context/RentContext.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RentApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RentApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RentApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RentApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RentApp.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RentApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="RentApp.Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Context" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="RentApp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/RentApp/RentApp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="RentApp" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02917ff0-5a27-492c-b029-0b1772b39bfa" name="Default Changelist" comment="" />
+      <created>1553966360398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553966360398</updated>
+      <workItem from="1553966365507" duration="1461000" />
+      <workItem from="1554922165677" duration="11047000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12508000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10604113" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3243607" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="14" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" weight="0.32891247" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" weight="0.32891247" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/RentApp.Specs/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/RentApp.Contract/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553966617956" expanded="true" signature="41:81" ph="{...}" />
+            <marker date="1553966617956" expanded="true" signature="67:79" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1553966390052" expanded="false" signature="6:255" ph="..." />
+            <marker date="1553966390052" expanded="true" signature="274:601" ph="{...}" />
+            <marker date="1553966390052" expanded="true" signature="301:599" ph="{...}" />
+            <marker date="1553966390052" expanded="true" signature="354:428" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Core/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1553966639455" expanded="true" signature="37:77" ph="{...}" />
+            <marker date="1553966639455" expanded="true" signature="63:75" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Specs/UnitTest1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <marker date="1553967030880" expanded="false" signature="6:26" ph="..." />
+            <marker date="1553967030880" expanded="true" signature="51:157" ph="{...}" />
+            <marker date="1553967030880" expanded="true" signature="80:155" ph="{...}" />
+            <marker date="1553967030880" expanded="true" signature="129:149" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Entity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding>
+            <marker date="1553967344548" expanded="false" signature="6:139" ph="..." />
+            <marker date="1553967344548" expanded="true" signature="173:444" ph="{...}" />
+            <marker date="1553967344548" expanded="true" signature="199:437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <marker date="1554924544482" expanded="true" signature="32:307" ph="{...}" />
+            <marker date="1554924544482" expanded="true" signature="67:305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Tenant.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
+          <folding>
+            <marker date="1554924757427" expanded="true" signature="32:120" ph="{...}" />
+            <marker date="1554924757427" expanded="true" signature="67:118" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+          <folding>
+            <marker date="1554924686953" expanded="true" signature="32:216" ph="{...}" />
+            <marker date="1554924686953" expanded="true" signature="65:214" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Address.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+          <folding>
+            <marker date="1554924544350" expanded="true" signature="62:288" ph="{...}" />
+            <marker date="1554924544350" expanded="true" signature="98:286" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Owner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1554925330121" expanded="true" signature="67:161" ph="{...}" />
+            <marker date="1554925330121" expanded="true" signature="101:159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Flat.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <marker date="1554925819900" expanded="true" signature="6:59" ph="..." />
+            <marker date="1554925819900" expanded="true" signature="93:580" ph="{...}" />
+            <marker date="1554925819900" expanded="true" signature="117:578" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Image.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+          <folding>
+            <marker date="1554925882075" expanded="true" signature="32:160" ph="{...}" />
+            <marker date="1554925882075" expanded="true" signature="66:158" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/DbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <marker date="1554986729609" expanded="true" signature="70:405" ph="{...}" />
+            <marker date="1554986729609" expanded="true" signature="99:403" ph="{...}" />
+            <marker date="1554986729609" expanded="true" signature="159:235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp.Infrastructure/Context/RentContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <marker date="1554986816276" expanded="true" signature="78:420" ph="{...}" />
+            <marker date="1554986816276" expanded="true" signature="121:418" ph="{...}" />
+            <marker date="1554986816276" expanded="true" signature="196:217" ph="{...}" />
+            <marker date="1554986816276" expanded="true" signature="303:412" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RentApp/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding>
+            <marker date="1554987956184" expanded="false" signature="6:465" ph="..." />
+            <marker date="1554987956184" expanded="true" signature="484:1877" ph="{...}" />
+            <marker date="1554987956184" expanded="true" signature="511:1875" ph="{...}" />
+            <marker date="1554987956184" expanded="true" signature="570:633" ph="{...}" />
+            <marker date="1554987956184" expanded="true" signature="856:1260" ph="{...}" />
+            <marker date="1554987956184" expanded="true" signature="1449:1869" ph="{...}" />
+            <marker date="1554987956184" expanded="true" signature="1496:1573" ph="{...}" />
+            <marker date="1554987956184" expanded="true" signature="1590:1793" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
